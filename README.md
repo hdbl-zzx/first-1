@@ -1,4 +1,5 @@
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.         For more information, please check Tuya Developer Website.<br>
+<br>
 一、宠物喂食器
 ==
 二、方案应用场景
@@ -8,7 +9,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
      当宠物粮不够，发出报警，提醒铲屎官投粮。<br>
 三、开发计划
 ==
-3月25前完成.
-1）2月28前准备物料
-2）3月1-20日嵌入式开发、云开发
-3）3月15日前整体调试。
+3月25前完成.<br>
+1）2月28前准备物料<br>
+2）3月1-20日嵌入式开发、云开发<br>
+3）3月15日前整体调试。<br>
